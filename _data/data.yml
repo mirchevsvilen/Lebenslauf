@@ -1,20 +1,20 @@
-name: John Doe
+name: Svilen Mirchev
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
-  gitlab: 
-  twitter: 
+  email: mirchev@outlook.com
+  github: mirchevsvilen
+  linkedin: mirchevsvilen
+  phone: 0177888888
+  gitlab: mirchev
+  twitter: mirchevsvilen
 
 languages:
-  - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: Deutsch
+  - idiom: Englisch
+  - idiom: Bulgarisch
 
 education:
   - degree: MSc in Informatics
