@@ -1,22 +1,26 @@
-name: Svilen Mirchev
+name: Lebenslauf
 support_dark_mode: true
 fork: true
 
 # Sidebar
-contact:
-  email: mirchev@outlook.com
-  github: mirchevsvilen
-  linkedin: mirchevsvilen
+Name:
+  Vorname: Svilen
+  Nachname: Mirchev
+
+Kontakt:
+  E-Mail: mirchev@outlook.de
+  Tel.: 0049157000000
+  Anschrift: Platz der Republik 1, 11011 Berlin
   phone: 0177888888
   gitlab: mirchev
   twitter: mirchevsvilen
 
-languages:
+Sprachen:
   - idiom: Deutsch
   - idiom: Englisch
-  - idiom: Bulgarisch
+  - idiom: Bulgarisch 
 
-education:
+Schule und Ausbildung:
   - degree: MSc in Informatics
     time: 2014-2016
     university: Ionian University
