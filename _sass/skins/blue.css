@@ -10,8 +10,8 @@
 [data-theme='dark'] {
   --bg-color: #ffffff;
   --bg-color-cv: #000000;
-  --fg-color: #66b447;
+  --fg-color: #ff0000;
   --fg-color-dark: #ffffff;
   --fg-color-body: #ffffff;
-  --fg-color-title-sm: #66b447;
+  --fg-color-title-sm: #ff0000;
 }
